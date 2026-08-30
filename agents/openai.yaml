@@ -1,0 +1,7 @@
+interface:
+  display_name: "照片解构插画卡"
+  short_description: "把人物、宠物或物品照片做成保真手绘与原图对照明信片"
+  default_prompt: "使用 $photo-to-illustration-card 把我附上的照片做成一张原图与插画上下对照的明信片。"
+
+policy:
+  allow_implicit_invocation: true
